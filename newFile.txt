@@ -1,4 +1,3 @@
-lina para borrar con revert
 HOLA LINEA 1
 HOLA LINEA 2
 
