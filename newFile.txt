@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 HOLA LINEA 1
 HOLA LINEA 2
 
 Esta lina es como esta en developz... otrtai linea mas....
-=======
-i
 esta lina no estaba
 esta es para cagada
 esta es para bruto conflicto
 siii
->>>>>>> main
